@@ -1,91 +1,134 @@
 <h1 align="center">Hi 👋, I'm Harshit Ambwani</h1>
-<h3 align="center">Final Year Computer Science Engineering Student | MERN Stack Developer</h3>
+<h3 align="center">Final Year Computer Science Engineering Student | MERN Stack Developer | Data Analytics Enthusiast</h3>
 
 <p align="center">
-🎓 B.Tech CSE @ VIT Bhopal <br>
-💻 Passionate about Full Stack Development & Data Analytics <br>
-🚀 Building scalable web applications and data-driven solutions
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Data+Analytics+Enthusiast;Open+to+Opportunities&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year **Computer Science Engineering student**
-- 💻 Skilled in **MERN Stack Development**
-- 📊 Interested in **Data Analytics & Data Visualization**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🚀 Passionate about building impactful real-world applications
+🎓 Final Year **Computer Science Engineering Student** at VIT Bhopal  
+💻 Skilled in **Full Stack Web Development (MERN Stack)**  
+📊 Interested in **Data Analytics & Data Visualization**  
+🧠 Practicing **Data Structures & Algorithms**  
+🚀 Passionate about building **scalable and impactful applications**
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### Programming
-C++ | JavaScript | Python
+### 👨‍💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,python"/>
+</p>
 
-### Frontend
-HTML | CSS | React | Tailwind | Bootstrap | Responsive Design
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind"/>
+</p>
 
-### Backend
-Node.js | Express.js | REST APIs | JWT Authentication
+### ⚙ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
 
-### Databases
-MongoDB | SQL | Firebase
+### 🗄 Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql"/>
+</p>
 
-### Data Analytics
+### 📊 Data Analytics
 Excel | Pandas | NumPy | Data Cleaning | Data Visualization
 
-### Tools
-Git | GitHub | Postman | NPM | Vercel | Render
+### 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,npm,vercel"/>
+</p>
 
 ---
 
-## 📌 Projects
+# 📌 Projects
 
-### 🛒 Customer Segmentation & Revenue Optimization
-- Analyzed e-commerce transaction data using **SQL & Python**
-- Implemented **RFM based customer segmentation**
-- Built an **Excel dashboard to track revenue insights**
+## 🛒 ShopEZ – E-Commerce Platform
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, HTML, CSS, JavaScript  
+Feb 2025 – March 2025
 
-### 💼 JobHunt – Job Portal Platform
-- Built using **MongoDB, Express, React, Node.js**
-- Secure authentication using **JWT**
-- Implemented **job search, filtering and pagination**
-
-### 📊 Sales Data Intelligence Dashboard
-- Performed **data cleaning and exploratory data analysis**
-- Built dashboards to identify **revenue patterns and trends**
+• Developed an **e-commerce platform with Admin, Seller, and Buyer roles**  
+• Implemented **secure authentication and dynamic filters**  
+• Built **product listings, cart, wishlist, and order management** for seamless shopping  
 
 ---
 
-## 🏆 Achievements
+## 💼 JobHunt – Job Portal Platform
 
-🥇 Winner – Firefox Expedition 2024 (Mozilla Firefox Club, VIT Bhopal)  
-🏅 Top 1% Performer – NPTEL Cloud Computing (Elite + Gold Certificate)
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT, Axios, Tailwind  
 
----
-
-## 📜 Certifications
-
-- Full Stack Web Developer (MERN) – SmartBridge
-- DevOps, Agile & Design Thinking – IBM
-- Marketing Analytics – NPTEL IIT Roorkee
-- Cloud Computing – NPTEL IIT Madras
-- Computer Networking – Coursera
+• Developed a **job-seeking platform with secure authentication**  
+• Implemented **job filtering, search, and pagination**  
+• Built **user profile management and job tracking system**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Customer Segmentation & Revenue Optimization
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitambwani&show_icons=true&theme=tokyonight)
+**Tech Stack:** Excel, SQL, Python (Pandas, NumPy)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitambwani&layout=compact&theme=tokyonight)
+• Analyzed **e-commerce transaction data** to identify key KPIs  
+• Performed **RFM-based customer segmentation**  
+• Created **interactive Excel dashboards for business insights**
 
 ---
 
-## 📫 Connect With Me
+## 📈 Sales Data Intelligence Dashboard
+
+**Tech Stack:** Python, SQL, Excel  
+
+• Performed **data cleaning and exploratory data analysis**  
+• Built dashboards to identify **revenue trends and product performance**
+
+---
+
+# 🏆 Achievements
+
+🥇 **Winner – Firefox Expedition 2024** (Mozilla Firefox Club, VIT Bhopal)  
+🏅 **Top 1% Performer – NPTEL Cloud Computing (Elite + Gold)**
+
+---
+
+# 📜 Certifications
+
+• Full Stack Web Developer (MERN Stack) – SmartBridge  
+• DevOps, Agile & Design Thinking – IBM  
+• Marketing Analytics – NPTEL IIT Roorkee  
+• Cloud Computing – NPTEL IIT Madras  
+• Computer Networking – Coursera
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=harshitambwani&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitambwani&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitambwani&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📫 Connect With Me
 
 📧 Email: harshitambwani86@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/harshit-ambwani-330b0719b/  
-💻 GitHub: https://github.com/harshitambwani
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/harshit-ambwani-330b0719b/
+
+💻 GitHub:  
+https://github.com/harshitambwani
